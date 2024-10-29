@@ -30,7 +30,7 @@ You must be at least 16 years old and capable of forming a binding contract to u
 - **User Content:** You retain ownership of any content you submit through the Service. By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, and display such content.
 
 ## 7. Privacy
-Your use of the Service is also governed by our Privacy Policy, which can be found [here](https://se-same.com/privacy).
+Your use of the Service is also governed by our Privacy Policy, which can be found here: https://se-same.com/privacy.
 
 ## 8. Disclaimers and Limitation of Liability
 - **Disclaimers:** The Service is provided "as is" and "as available" without warranties of any kind, either express or implied.
@@ -46,4 +46,4 @@ We may update these Terms from time to time. We will notify you of any changes b
 These Terms shall be governed by and construed in accordance with the laws of Philippines, without regard to its conflict of law principles.
 
 ## 12. Contact Us
-If you have any questions about these Terms, please contact us at support [at] se-same.com.
+If you have any questions about these Terms, please contact us at support [at] se-same (dot) com.
